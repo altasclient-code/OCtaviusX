@@ -2485,7 +2485,7 @@ bot.command("jennasey", checkPremiumOrGroupPremium, checkWhatsAppConnection, asy
 // ============ PULL UPDATE ============
 // ============ PULL UPDATE ============
 // ============ PULL UPDATE ============
-const UPDATE_URL = "https://raw.githubusercontent.com/Unbandfoul/scary_autoupdate/refs/heads/main/scary.js";
+const UPDATE_URL = "https://raw.githubusercontent.com/altasclient-code/OCtaviusX/main/scary.js";
 const UPDATE_FILE_PATH = "./scary.js";
 
 function downloadToFile(url, filePath) {
